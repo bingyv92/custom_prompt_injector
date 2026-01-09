@@ -1,0 +1,2 @@
+# custom_prompt_injector
+适用于mofox的自定义插入提示词的插件
